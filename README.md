@@ -1,3 +1,3 @@
 # internLM_study
-Record the learning notes of interLM large model training camp three
-https://github.com/InternLM/Tutorial
+Record the learning notes of interLM(https://github.com/InternLM/Tutorial) large model training camp three 
+
